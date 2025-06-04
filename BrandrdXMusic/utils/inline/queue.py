@@ -73,7 +73,7 @@ def aq_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ⛦", url=f"https://t.me/Shinzo72"
+                text="⛦ ᴏᴡɴᴇʀ ⛦", url=f"https://t.me/Yourx_Nishant_01"
             ),
             InlineKeyboardButton(
                 text="🥀 ꜱᴜᴘᴘᴏʀᴛ 🥀", url=f"https://t.me/MUSIC_BOT_UPDATE"
@@ -113,7 +113,7 @@ def queuemarkup(_, vidid, chat_id):
         [
             InlineKeyboardButton(
                 text="๏ ᴍᴏʀᴇ ๏",
-                url="https://t.me/NOBITA_XD1",
+                url="https://t.me/Yourx_Nishant_01",
             ),
         ],
     ]
